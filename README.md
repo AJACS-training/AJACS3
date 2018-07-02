@@ -38,10 +38,6 @@ AJACS1 あっと dbcls どっと rois どっと ac どっと jp
 <dt>主催</dt>
 <dd>[文部科学省委託研究開発事業「統合データベースプロジェクト」 ](http://lifesciencedb.mext.go.jp/)、大学共同利用機関法人 情報・システム研究機構(ROIS) [ライフサイエンス統合データベースセンター(DBCLS)](http://DBCLS.rois.ac.jp/)</dd>
 </dl>
-<div class="jumpmenu">↑</div>
-### [_](http://MotDB.DBCLS.jp/?AJACS3#dff5c816 "dff5c816") 内容  
-
-<div class="jumpmenu">↑</div>
 
 #### [_](http://MotDB.DBCLS.jp/?AJACS3#x271959e "x271959e") 午前：講演 10:30-12:00  
 
