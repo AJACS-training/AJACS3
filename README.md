@@ -39,7 +39,7 @@ AJACS1 あっと dbcls どっと rois どっと ac どっと jp
 <dd>[文部科学省委託研究開発事業「統合データベースプロジェクト」 ](http://lifesciencedb.mext.go.jp/)、大学共同利用機関法人 情報・システム研究機構(ROIS) [ライフサイエンス統合データベースセンター(DBCLS)](http://DBCLS.rois.ac.jp/)</dd>
 </dl>
 
-#### [_](http://MotDB.DBCLS.jp/?AJACS3#x271959e "x271959e") 午前：講演 10:30-12:00  
+#### 午前：講演 10:30-12:00  
 
 * 10:30-10:50 高木利久（ライフサイエンス統合データベースセンター）「統合データベースプロジェクトとは」【[プレゼン in 統合TV](http://togotv.dbcls.jp/20080729.html)】
 
@@ -47,15 +47,14 @@ AJACS1 あっと dbcls どっと rois どっと ac どっと jp
 * 11:10-11:30 ◎上原啓史、阿部貴志、池村淑道[（長浜バイオ大学）](http://dbcls.nagahama-i-bio.ac.jp/)「学部学生による持続可能型社会への貢献遺伝子データベースの構築」
 * 11:30-11:50 大久保公策（国立遺伝学研究所） 「科学データは誰のものか？」
 
-<div class="jumpmenu">↑</div>
 
-#### [_](http://MotDB.DBCLS.jp/?AJACS3#ue28d741 "ue28d741") 午後：講習 13:30-17:30（統合データベースプロジェクトで提供しているサービスの使い方実習）  
+#### 午後：講習 13:30-17:30（統合データベースプロジェクトで提供しているサービスの使い方実習）  
 
-* 13:30-14:00 坊農秀雅 [使いこなすための最低限のコンピュータ使いこなし術](http://MotDB.DBCLS.jp/?AJACS3%2FBono1 "AJACS3/Bono1 (3651d)") 【[プレゼン in 統合TV](http://togotv.dbcls.jp/20080730.html)】
-* 14:00-14:30 川本祥子 [生命科学横断検索の利用法](http://MotDB.DBCLS.jp/?AJACS3%2Fkawamoto "AJACS3/kawamoto (3650d)") 【[プレゼン in 統合TV](http://togotv.dbcls.jp/20080731.html)】
+* 13:30-14:00 坊農秀雅 [使いこなすための最低限のコンピュータ使いこなし術](01_bono1.md) 【[プレゼン in 統合TV](http://togotv.dbcls.jp/20080730.html)】
+* 14:00-14:30 川本祥子 [生命科学横断検索の利用法](02_kawamoto.md) 【[プレゼン in 統合TV](http://togotv.dbcls.jp/20080731.html)】
 * 14:30-15:00 休憩
-* 15:00-15:30 三橋信孝 [アナトモグラフィー](http://MotDB.DBCLS.jp/?AJACS3%2Fmitsuhashi "AJACS3/mitsuhashi (3646d)") 【[プレゼン in 統合TV](http://togotv.dbcls.jp/20080804.html)】
-* 15:30-16:00 山本泰智 [OReFiLとAllie](http://MotDB.DBCLS.jp/?AJACS3%2Fyayamamo1 "AJACS3/yayamamo1 (3646d)") 【[プレゼン in 統合TV](http://togotv.dbcls.jp/20080805.html)】
+* 15:00-15:30 三橋信孝 [アナトモグラフィー](AJACS3_mitsuhashi.pdf) 【[プレゼン in 統合TV](http://togotv.dbcls.jp/20080804.html)】
+* 15:30-16:00 山本泰智 [OReFiLとAllie](AJACS3_yamamoto.pdf) 【[プレゼン in 統合TV](http://togotv.dbcls.jp/20080805.html)】
 * 16:00-16:30 休憩
-* 16:30-17:00 坊農秀雅 [DBCLS独自サービス「目次」、「カタログ」系の使いこなし術](http://MotDB.DBCLS.jp/?AJACS3%2FBono2 "AJACS3/Bono2 (3650d)")【[プレゼン in 統合TV](http://togotv.dbcls.jp/20080806.html)】
-* 17:00-17:30 坊農秀雅 [教育・人材育成のリソース紹介他](http://MotDB.DBCLS.jp/?AJACS3%2FBono3 "AJACS3/Bono3 (3650d)")【[プレゼン in 統合TV](http://togotv.dbcls.jp/20080806.html)】
+* 16:30-17:00 坊農秀雅 [DBCLS独自サービス「目次」、「カタログ」系の使いこなし術](03_bono2.md)【[プレゼン in 統合TV](http://togotv.dbcls.jp/20080806.html)】
+* 17:00-17:30 坊農秀雅 [教育・人材育成のリソース紹介他](04_bono3.md)【[プレゼン in 統合TV](http://togotv.dbcls.jp/20080806.html)】
